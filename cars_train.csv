@@ -1,0 +1,558 @@
+,Price,Mileage,Make,Model,Trim,Type,Cylinder,Liter,Doors,Cruise,Sound,Leather
+615,15730.04627,21391.0,Pontiac,Vibe,GT Sportwagon,Wagon,4,1.8,4,0,1,1
+107,35338.65369,,Cadillac,Deville,DHS Sedan 4D,Sedan,8,4.6,4,1,0,1
+17,18543.42705,26034.0,Buick,Lacrosse,CX Sedan 4D,Sedan,6,3.6,4,1,1,1
+440,17089.91883,8732.0,Chevrolet,Malibu,Sedan 4D,Sedan,6,3.5,4,0,1,1
+365,18912.9816,21512.0,Chevrolet,Impala,LS Sedan 4D,Sedan,6,3.8,4,1,1,0
+353,39092.18992,,Chevrolet,Corvette,Coupe 2D,Coupe,8,6.0,2,1,1,1
+45,18348.89857,23852.0,Buick,Lesabre,Custom Sedan 4D,Sedan,6,3.8,4,1,1,0
+159,52001.99438,42691.0,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8,4.6,2,1,1,1
+510,21903.32262,4537.0,Pontiac,G6,GT Sedan 4D,Sedan,6,3.5,4,1,1,0
+346,39691.7274,25169.0,Chevrolet,Corvette,Conv 2D,Convertible,8,6.0,2,1,1,1
+11,20538.08751,15066.0,Buick,Lacrosse,CX Sedan 4D,Sedan,6,3.6,4,1,1,0
+88,43374.05242,25199.0,Cadillac,CST-V,Sedan 4D,Sedan,8,5.7,4,1,1,1
+501,23102.02237,5653.0,Pontiac,Bonneville,SLE Sedan 4D,Sedan,6,3.8,4,1,0,0
+483,22525.26972,19521.0,Pontiac,Bonneville,GXP Sedan 4D,Sedan,8,4.6,4,1,1,1
+147,41053.48217,25717.0,Cadillac,STS-V8,Sedan 4D,Sedan,8,4.6,4,1,1,1
+670,38324.80908,12090.0,SAAB,9_3 HO,Arc Conv 2D,Convertible,4,2.0,2,1,1,1
+335,13994.90646,17270.0,Chevrolet,Cobalt,Sedan 4D,Sedan,4,2.2,4,0,1,1
+579,15756.14613,29325.0,Pontiac,Grand Prix,Sedan 4D,Sedan,6,3.8,4,1,1,0
+571,19567.25929,2189.0,Pontiac,Grand Prix,Sedan 4D,Sedan,6,3.8,4,1,1,1
+277,11671.85813,25727.0,Chevrolet,Cavalier,Sedan 4D,Sedan,4,2.2,4,1,1,1
+121,35651.68002,10555.0,Cadillac,Deville,Sedan 4D,Sedan,8,4.6,4,1,1,1
+49,17645.74504,27830.0,Buick,Lesabre,Custom Sedan 4D,Sedan,6,3.8,4,1,1,1
+31,23547.23944,16235.0,Buick,Lacrosse,CXS Sedan 4D,Sedan,6,3.8,4,1,1,0
+498,18063.00491,27574.0,Pontiac,Bonneville,SE Sedan 4D,Sedan,6,3.8,4,1,0,0
+233,12327.64161,19347.0,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4,2.2,2,0,1,1
+333,14194.8236,9561.0,Chevrolet,Cobalt,Sedan 4D,Sedan,4,2.2,4,0,1,1
+606,15297.83597,23062.0,Pontiac,Vibe,AWD Sportwagon 4D,Wagon,4,1.8,4,0,0,0
+274,11574.17381,21525.0,Chevrolet,Cavalier,Sedan 4D,Sedan,4,2.2,4,0,1,1
+658,29142.71439,31655.0,SAAB,9_3 HO,Aero Conv 2D,Convertible,4,2.0,2,1,1,1
+364,18527.20897,19874.0,Chevrolet,Impala,LS Sedan 4D,Sedan,6,3.8,4,1,1,0
+116,36332.89469,,Cadillac,Deville,DTS Sedan 4D,Sedan,8,4.6,4,1,0,1
+486,22189.11597,25651.0,Pontiac,Bonneville,GXP Sedan 4D,Sedan,8,4.6,4,1,0,1
+285,13436.00015,20530.0,Chevrolet,Classic,Sedan 4D,Sedan,4,2.2,4,0,1,1
+95,30792.14903,17870.0,Cadillac,CTS,Sedan 4D,Sedan,6,2.8,4,1,1,1
+665,25790.51414,21160.0,SAAB,9_3 HO,Aero Sedan 4D,Sedan,4,2.0,4,1,1,1
+304,13699.03578,25845.0,Chevrolet,Cobalt,LS Coupe 2D,Coupe,4,2.2,2,1,1,1
+417,17115.12203,24461.0,Chevrolet,Malibu,LT MAXX Hback 4D,Hatchback,6,3.5,4,0,1,1
+262,14255.74768,16958.0,Chevrolet,Cavalier,LS Sport Sedan 4D,Sedan,4,2.2,4,0,1,1
+247,13230.91867,,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4,2.2,4,0,1,1
+62,23420.70695,18910.0,Buick,Park Avenue,Sedan 4D,Sedan,6,3.8,4,1,0,1
+360,21757.04951,,Chevrolet,Impala,LS Sedan 4D,Sedan,6,3.8,4,1,0,0
+441,17463.04608,11393.0,Chevrolet,Malibu,Sedan 4D,Sedan,6,3.5,4,1,1,1
+684,30122.42974,14568.0,SAAB,9_3 HO,Arc Sedan 4D,Sedan,4,2.0,4,1,1,1
+135,36210.123,21778.0,Cadillac,STS-V6,Sedan 4D,Sedan,6,3.6,4,1,0,1
+404,16472.89765,21675.0,Chevrolet,Malibu,LS Sedan 4D,Sedan,6,3.5,4,1,1,1
+426,16536.74388,24218.0,Chevrolet,Malibu,LT Sedan 4D,Sedan,6,3.5,4,1,1,1
+301,15747.80397,6048.0,Chevrolet,Cobalt,LS Coupe 2D,Coupe,4,2.2,2,0,1,1
+570,19822.11539,1592.0,Pontiac,Grand Prix,Sedan 4D,Sedan,6,3.8,4,1,1,0
+352,38990.60733,,Chevrolet,Corvette,Coupe 2D,Coupe,8,6.0,2,1,1,1
+609,14546.88481,33374.0,Pontiac,Vibe,AWD Sportwagon 4D,Wagon,4,1.8,4,0,1,1
+447,15623.91976,21272.0,Chevrolet,Malibu,Sedan 4D,Sedan,6,3.5,4,1,1,1
+90,33417.96501,6598.0,Cadillac,CTS,Sedan 4D,Sedan,6,2.8,4,1,1,1
+428,16713.98469,26328.0,Chevrolet,Malibu,LT Sedan 4D,Sedan,6,3.5,4,1,1,1
+563,21281.88049,17417.0,Pontiac,Grand Prix,GTP Sedan 4D,Sedan,6,3.8,4,1,1,1
+29,19556.89932,25245.0,Buick,Lacrosse,CXL Sedan 4D,Sedan,6,3.6,4,1,0,0
+218,8870.947316,32914.0,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4,1.6,4,1,1,0
+214,9665.84886,19565.0,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4,1.6,4,0,1,1
+255,12507.48527,19715.0,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4,2.2,2,1,1,1
+293,13106.90042,21910.0,Chevrolet,Cobalt,Coupe 2D,Coupe,4,2.2,2,0,1,1
+343,42773.02839,14546.0,Chevrolet,Corvette,Conv 2D,Convertible,8,6.0,2,1,1,1
+248,11080.51638,,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4,2.2,4,0,1,1
+438,16860.09433,22841.0,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6,3.5,4,1,1,1
+482,23578.16486,19148.0,Pontiac,Bonneville,GXP Sedan 4D,Sedan,8,4.6,4,1,0,1
+522,20677.59382,11204.0,Pontiac,G6,Sedan 4D,Sedan,6,3.5,4,1,1,0
+160,12146.18803,10011.0,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4,1.6,4,0,0,1
+439,16027.28649,22889.0,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6,3.5,4,0,1,1
+299,12487.05429,28492.0,Chevrolet,Cobalt,Coupe 2D,Coupe,4,2.2,2,0,1,1
+575,16256.23617,22637.0,Pontiac,Grand Prix,Sedan 4D,Sedan,6,3.8,4,1,0,0
+103,38600.23956,17138.0,Cadillac,Deville,DHS Sedan 4D,Sedan,8,4.6,4,1,0,1
+455,17515.39759,18602.0,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6,3.8,2,1,0,0
+146,41516.42986,,Cadillac,STS-V8,Sedan 4D,Sedan,8,4.6,4,1,1,1
+347,38824.86909,25960.0,Chevrolet,Corvette,Conv 2D,Convertible,8,6.0,2,1,0,1
+286,13161.94283,21145.0,Chevrolet,Classic,Sedan 4D,Sedan,4,2.2,4,1,1,1
+165,10386.04022,22225.0,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4,1.6,4,0,0,0
+491,18678.41412,16496.0,Pontiac,Bonneville,SE Sedan 4D,Sedan,6,3.8,4,1,1,0
+80,51154.04722,2202.0,Cadillac,CST-V,Sedan 4D,Sedan,8,5.7,4,1,1,1
+421,17119.45757,18277.0,Chevrolet,Malibu,LT Sedan 4D,Sedan,6,3.5,4,1,1,1
+598,11903.09775,25285.0,Pontiac,Sunfire,Coupe 2D,Coupe,4,2.2,2,0,1,1
+427,16341.8041,25394.0,Chevrolet,Malibu,LT Sedan 4D,Sedan,6,3.5,4,0,1,1
+195,11169.91839,22380.0,Chevrolet,AVEO,LT Sedan 4D,Sedan,4,1.6,4,0,1,0
+3,16336.91314,16342.0,Buick,Century,Sedan 4D,Sedan,6,3.1,4,1,0,0
+402,17458.22153,15144.0,Chevrolet,Malibu,LS Sedan 4D,Sedan,6,3.5,4,1,1,1
+9,15295.01827,27325.0,Buick,Century,Sedan 4D,Sedan,6,3.1,4,1,1,1
+432,19581.23141,7645.0,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6,3.5,4,0,1,1
+399,14914.20128,33906.0,Chevrolet,Malibu,LS MAXX Hback 4D,Hatchback,6,3.5,4,0,1,1
+350,39875.85426,7054.0,Chevrolet,Corvette,Coupe 2D,Coupe,8,6.0,2,1,0,1
+545,14841.91705,12420.0,Pontiac,Grand Am,SE Sedan 4D,Sedan,4,2.2,4,0,1,1
+179,9954.054174,37345.0,Chevrolet,AVEO,LS Sedan 4D,Sedan,4,1.6,4,0,1,1
+394,16723.99388,19740.0,Chevrolet,Malibu,LS MAXX Hback 4D,Hatchback,6,3.5,4,1,1,1
+257,13594.08559,20682.0,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4,2.2,2,1,1,1
+368,17294.181,29368.0,Chevrolet,Impala,LS Sedan 4D,Sedan,6,3.8,4,1,1,0
+358,34739.21496,,Chevrolet,Corvette,Coupe 2D,Coupe,8,6.0,2,1,0,1
+318,13545.0309,27431.0,Chevrolet,Cobalt,LS Sedan 4D,Sedan,4,2.2,4,0,1,1
+437,16267.09489,21452.0,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6,3.5,4,0,1,1
+546,15077.17584,13262.0,Pontiac,Grand Am,SE Sedan 4D,Sedan,4,2.2,4,0,1,1
+241,14198.09246,11322.0,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4,2.2,4,1,1,1
+197,10872.01393,25869.0,Chevrolet,AVEO,LT Sedan 4D,Sedan,4,1.6,4,0,0,0
+40,20698.07708,2992.0,Buick,Lesabre,Custom Sedan 4D,Sedan,6,3.8,4,1,0,1
+556,16997.69374,25830.0,Pontiac,Grand Prix,GT Sedan 4D,Sedan,6,3.8,4,1,0,1
+544,15604.14582,5788.0,Pontiac,Grand Am,SE Sedan 4D,Sedan,4,2.2,4,1,1,1
+377,16508.59069,27460.0,Chevrolet,Impala,Sedan 4D,Sedan,6,3.8,4,1,1,1
+5,15709.05282,,Buick,Century,Sedan 4D,Sedan,6,3.1,4,1,1,0
+445,16752.5144,18562.0,Chevrolet,Malibu,Sedan 4D,Sedan,6,3.5,4,1,1,1
+245,12573.89994,,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4,2.2,4,1,1,1
+374,17154.57646,21567.0,Chevrolet,Impala,Sedan 4D,Sedan,6,3.8,4,1,0,1
+481,23449.30633,17273.0,Pontiac,Bonneville,GXP Sedan 4D,Sedan,8,4.6,4,1,0,1
+38,20986.01602,27096.0,Buick,Lacrosse,CXS Sedan 4D,Sedan,6,3.8,4,1,0,0
+673,36338.75133,18195.0,SAAB,9_3 HO,Arc Conv 2D,Convertible,4,2.0,2,1,1,0
+594,12832.46239,20618.0,Pontiac,Sunfire,Coupe 2D,Coupe,4,2.2,2,1,1,1
+685,26789.83261,22189.0,SAAB,9_3 HO,Arc Sedan 4D,Sedan,4,2.0,4,1,0,0
+567,19423.16502,25557.0,Pontiac,Grand Prix,GTP Sedan 4D,Sedan,6,3.8,4,1,0,1
+681,32053.09716,5144.0,SAAB,9_3 HO,Arc Sedan 4D,Sedan,4,2.0,4,1,1,0
+162,11472.02276,19699.0,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4,1.6,4,0,0,1
+67,23077.56591,23798.0,Buick,Park Avenue,Sedan 4D,Sedan,6,3.8,4,1,0,1
+124,32501.24519,17508.0,Cadillac,Deville,Sedan 4D,Sedan,8,4.6,4,1,0,1
+39,20902.10379,29649.0,Buick,Lacrosse,CXS Sedan 4D,Sedan,6,3.8,4,1,1,1
+4,16339.17032,,Buick,Century,Sedan 4D,Sedan,6,3.1,4,1,0,1
+33,22230.0275,22102.0,Buick,Lacrosse,CXS Sedan 4D,Sedan,6,3.8,4,1,0,1
+433,18169.37548,14754.0,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6,3.5,4,0,1,1
+99,28040.12853,27484.0,Cadillac,CTS,Sedan 4D,Sedan,6,2.8,4,1,1,1
+506,20109.90412,22891.0,Pontiac,Bonneville,SLE Sedan 4D,Sedan,6,3.8,4,1,1,1
+236,12425.38917,22771.0,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4,2.2,2,0,1,1
+660,26841.08084,10003.0,SAAB,9_3 HO,Aero Sedan 4D,Sedan,4,2.0,4,1,1,0
+355,35261.43643,,Chevrolet,Corvette,Coupe 2D,Coupe,8,6.0,2,1,1,1
+406,16300.46524,25697.0,Chevrolet,Malibu,LS Sedan 4D,Sedan,6,3.5,4,1,1,1
+494,19751.04143,20510.0,Pontiac,Bonneville,SE Sedan 4D,Sedan,6,3.8,4,1,0,1
+386,22064.29219,27384.0,Chevrolet,Impala,SS Sedan 4D,Sedan,6,3.8,4,1,1,1
+412,18273.00613,16335.0,Chevrolet,Malibu,LT MAXX Hback 4D,Hatchback,6,3.5,4,0,1,1
+186,11394.8864,25107.0,Chevrolet,AVEO,LT Hatchback 4D,Hatchback,4,1.6,4,0,1,1
+630,35622.1395,10340.0,SAAB,9_3,Linear Conv 2D,Convertible,4,2.0,2,1,1,0
+628,14909.05099,23323.0,Pontiac,Vibe,Sportwagon 4D,Wagon,4,1.8,4,0,1,1
+260,14222.3054,8427.0,Chevrolet,Cavalier,LS Sport Sedan 4D,Sedan,4,2.2,4,0,1,1
+378,15832.51835,31202.0,Chevrolet,Impala,Sedan 4D,Sedan,6,3.8,4,1,1,1
+457,16345.94375,25931.0,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6,3.8,2,1,1,0
+200,10813.34352,266.0,Chevrolet,AVEO,SVM Hatchback 4D,Hatchback,4,1.6,4,1,0,1
+663,27060.13756,17319.0,SAAB,9_3 HO,Aero Sedan 4D,Sedan,4,2.0,4,1,0,1
+78,23159.54378,25869.0,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6,3.8,4,1,0,0
+558,15457.17059,29925.0,Pontiac,Grand Prix,GT Sedan 4D,Sedan,6,3.8,4,1,1,0
+42,18145.12649,18339.0,Buick,Lesabre,Custom Sedan 4D,Sedan,6,3.8,4,1,1,0
+133,38297.46254,16754.0,Cadillac,STS-V6,Sedan 4D,Sedan,6,3.6,4,1,0,1
+339,12678.85397,28683.0,Chevrolet,Cobalt,Sedan 4D,Sedan,4,2.2,4,0,1,1
+565,20173.90633,21211.0,Pontiac,Grand Prix,GTP Sedan 4D,Sedan,6,3.8,4,1,0,1
+250,15053.93373,,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4,2.2,2,1,1,1
+467,20017.96843,22729.0,Chevrolet,Monte Carlo,LT Coupe 2D,Coupe,6,3.8,2,1,0,0
+379,15554.28313,33357.0,Chevrolet,Impala,Sedan 4D,Sedan,6,3.8,4,1,1,1
+652,33358.76777,17590.0,SAAB,9_3 HO,Aero Conv 2D,Convertible,4,2.0,2,1,1,1
+192,11302.90299,14627.0,Chevrolet,AVEO,LT Sedan 4D,Sedan,4,1.6,4,0,1,0
+442,17218.68575,14579.0,Chevrolet,Malibu,Sedan 4D,Sedan,6,3.5,4,1,1,1
+354,39365.88324,,Chevrolet,Corvette,Coupe 2D,Coupe,8,6.0,2,1,1,1
+334,14072.13523,15233.0,Chevrolet,Cobalt,Sedan 4D,Sedan,4,2.2,4,0,1,1
+521,20452.66947,10338.0,Pontiac,G6,Sedan 4D,Sedan,6,3.5,4,1,0,0
+654,30731.94165,22479.0,SAAB,9_3 HO,Aero Conv 2D,Convertible,4,2.0,2,1,0,0
+435,17173.94232,18721.0,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6,3.5,4,0,1,1
+157,57154.44344,29260.0,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8,4.6,2,1,1,1
+584,29664.70269,21418.0,Pontiac,GTO,Coupe 2D,Coupe,8,5.7,2,1,0,1
+452,19177.41206,10414.0,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6,3.8,2,1,1,0
+669,23733.40225,27600.0,SAAB,9_3 HO,Aero Sedan 4D,Sedan,4,2.0,4,1,1,0
+523,19294.7875,19539.0,Pontiac,G6,Sedan 4D,Sedan,6,3.5,4,1,0,0
+102,39307.00916,16041.0,Cadillac,Deville,DHS Sedan 4D,Sedan,8,4.6,4,1,0,1
+52,21646.11692,19562.0,Buick,Lesabre,Limited Sedan 4D,Sedan,6,3.8,4,1,1,1
+464,21233.91136,17337.0,Chevrolet,Monte Carlo,LT Coupe 2D,Coupe,6,3.8,2,1,1,1
+341,47065.20991,5239.0,Chevrolet,Corvette,Conv 2D,Convertible,8,6.0,2,1,1,1
+345,39547.5879,23826.0,Chevrolet,Corvette,Conv 2D,Convertible,8,6.0,2,1,1,1
+97,28817.08185,21039.0,Cadillac,CTS,Sedan 4D,Sedan,6,2.8,4,1,0,1
+667,24852.49528,22814.0,SAAB,9_3 HO,Aero Sedan 4D,Sedan,4,2.0,4,1,1,1
+128,31181.71516,26222.0,Cadillac,Deville,Sedan 4D,Sedan,8,4.6,4,1,0,1
+177,10144.95208,23963.0,Chevrolet,AVEO,LS Sedan 4D,Sedan,4,1.6,4,1,1,0
+110,42820.32902,,Cadillac,Deville,DTS Sedan 4D,Sedan,8,4.6,4,1,0,1
+519,18529.34212,30063.0,Pontiac,G6,GT Sedan 4D,Sedan,6,3.5,4,1,0,1
+434,17986.22409,17488.0,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6,3.5,4,0,1,1
+323,15163.16986,17158.0,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4,2.2,4,1,1,1
+496,18856.01869,22423.0,Pontiac,Bonneville,SE Sedan 4D,Sedan,6,3.8,4,1,1,0
+142,45061.95194,,Cadillac,STS-V8,Sedan 4D,Sedan,8,4.6,4,1,1,1
+559,14963.04562,31471.0,Pontiac,Grand Prix,GT Sedan 4D,Sedan,6,3.8,4,1,1,0
+6,15230.00339,22576.0,Buick,Century,Sedan 4D,Sedan,6,3.1,4,1,1,0
+267,14145.88099,20512.0,Chevrolet,Cavalier,LS Sport Sedan 4D,Sedan,4,2.2,4,1,1,1
+538,15059.13408,22641.0,Pontiac,Grand Am,GT Coupe 2D,Coupe,6,3.4,2,1,1,1
+237,12319.69625,24568.0,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4,2.2,2,1,1,1
+415,18004.87041,18771.0,Chevrolet,Malibu,LT MAXX Hback 4D,Hatchback,6,3.5,4,0,1,1
+58,19191.98962,29187.0,Buick,Lesabre,Limited Sedan 4D,Sedan,6,3.8,4,1,1,1
+232,13446.21342,17741.0,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4,2.2,2,0,1,1
+635,31970.54208,21208.0,SAAB,9_3,Linear Conv 2D,Convertible,4,2.0,2,1,1,0
+596,12465.50852,23931.0,Pontiac,Sunfire,Coupe 2D,Coupe,4,2.2,2,0,1,1
+203,10106.01643,,Chevrolet,AVEO,SVM Hatchback 4D,Hatchback,4,1.6,4,1,0,0
+530,17360.81064,881.0,Pontiac,Grand Am,GT Coupe 2D,Coupe,6,3.4,2,0,1,1
+284,12981.95203,20309.0,Chevrolet,Classic,Sedan 4D,Sedan,4,2.2,4,1,1,1
+383,24809.04232,16111.0,Chevrolet,Impala,SS Sedan 4D,Sedan,6,3.8,4,1,0,0
+2,16218.84786,13196.0,Buick,Century,Sedan 4D,Sedan,6,3.1,4,1,1,0
+629,14853.19901,24270.0,Pontiac,Vibe,Sportwagon 4D,Wagon,4,1.8,4,0,0,0
+217,9041.906254,26191.0,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4,1.6,4,0,0,1
+46,17750.88457,25040.0,Buick,Lesabre,Custom Sedan 4D,Sedan,6,3.8,4,1,1,0
+679,28777.95969,48991.0,SAAB,9_3 HO,Arc Conv 2D,Convertible,4,2.0,2,1,1,1
+225,11726.00297,23103.0,Chevrolet,Cavalier,Coupe 2D,Coupe,4,2.2,2,0,1,1
+18,17808.199,32896.0,Buick,Lacrosse,CX Sedan 4D,Sedan,6,3.6,4,1,1,0
+168,10777.05254,27906.0,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4,1.6,4,0,0,0
+495,17844.73077,21121.0,Pontiac,Bonneville,SE Sedan 4D,Sedan,6,3.8,4,1,1,0
+292,13135.90503,21796.0,Chevrolet,Cobalt,Coupe 2D,Coupe,4,2.2,2,1,1,1
+674,35580.33231,21167.0,SAAB,9_3 HO,Arc Conv 2D,Convertible,4,2.0,2,1,1,0
+676,34392.99527,24031.0,SAAB,9_3 HO,Arc Conv 2D,Convertible,4,2.0,2,1,0,1
+524,18548.97859,20870.0,Pontiac,G6,Sedan 4D,Sedan,6,3.5,4,1,0,0
+328,14401.90693,21527.0,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4,2.2,4,0,1,1
+283,14077.96885,17445.0,Chevrolet,Classic,Sedan 4D,Sedan,4,2.2,4,0,1,1
+693,31002.73442,15087.0,SAAB,9_5,Arc Sedan 4D,Sedan,4,2.3,4,1,1,1
+535,15595.88413,18315.0,Pontiac,Grand Am,GT Coupe 2D,Coupe,6,3.4,2,0,1,1
+520,21383.06716,7287.0,Pontiac,G6,Sedan 4D,Sedan,6,3.5,4,1,1,1
+371,18835.18976,8211.0,Chevrolet,Impala,Sedan 4D,Sedan,6,3.8,4,1,0,1
+93,30781.51563,14937.0,Cadillac,CTS,Sedan 4D,Sedan,6,2.8,4,1,1,1
+213,9563.789309,19273.0,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4,1.6,4,1,1,0
+258,12733.85792,21386.0,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4,2.2,2,1,1,1
+337,13159.82154,22740.0,Chevrolet,Cobalt,Sedan 4D,Sedan,4,2.2,4,1,1,1
+291,12810.91058,19461.0,Chevrolet,Cobalt,Coupe 2D,Coupe,4,2.2,2,1,1,1
+597,12258.85759,24318.0,Pontiac,Sunfire,Coupe 2D,Coupe,4,2.2,2,1,1,1
+106,35866.58271,,Cadillac,Deville,DHS Sedan 4D,Sedan,8,4.6,4,1,1,1
+115,37215.16938,,Cadillac,Deville,DTS Sedan 4D,Sedan,8,4.6,4,1,0,1
+473,22470.35843,22626.0,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6,3.8,2,1,1,0
+692,33183.3326,9795.0,SAAB,9_5,Arc Sedan 4D,Sedan,4,2.3,4,1,1,1
+493,20127.04418,18419.0,Pontiac,Bonneville,SE Sedan 4D,Sedan,6,3.8,4,1,1,1
+36,21341.25721,25212.0,Buick,Lacrosse,CXS Sedan 4D,Sedan,6,3.8,4,1,1,1
+551,17095.03522,18720.0,Pontiac,Grand Prix,GT Sedan 4D,Sedan,6,3.8,4,1,0,0
+504,22004.93044,15516.0,Pontiac,Bonneville,SLE Sedan 4D,Sedan,6,3.8,4,1,1,1
+204,10354.04385,,Chevrolet,AVEO,SVM Hatchback 4D,Hatchback,4,1.6,4,0,1,0
+244,13471.00508,,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4,2.2,4,1,1,1
+221,13041.874,13607.0,Chevrolet,Cavalier,Coupe 2D,Coupe,4,2.2,2,0,1,1
+246,12383.40281,,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4,2.2,4,1,1,1
+429,16295.21144,28239.0,Chevrolet,Malibu,LT Sedan 4D,Sedan,6,3.5,4,0,1,1
+541,16379.853,4188.0,Pontiac,Grand Am,SE Sedan 4D,Sedan,4,2.2,4,1,1,1
+502,22460.53,8928.0,Pontiac,Bonneville,SLE Sedan 4D,Sedan,6,3.8,4,1,0,1
+351,39713.66792,,Chevrolet,Corvette,Coupe 2D,Coupe,8,6.0,2,1,1,1
+249,11328.95887,,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4,2.2,4,1,1,1
+122,35129.34077,11975.0,Cadillac,Deville,Sedan 4D,Sedan,8,4.6,4,1,1,1
+590,13160.12456,13145.0,Pontiac,Sunfire,Coupe 2D,Coupe,4,2.2,2,0,1,1
+164,11096.85727,20334.0,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4,1.6,4,1,0,0
+592,12828.03098,19081.0,Pontiac,Sunfire,Coupe 2D,Coupe,4,2.2,2,1,1,1
+677,33984.43077,25420.0,SAAB,9_3 HO,Arc Conv 2D,Convertible,4,2.0,2,1,0,0
+573,16516.95555,20751.0,Pontiac,Grand Prix,Sedan 4D,Sedan,6,3.8,4,1,1,1
+239,12234.88805,30297.0,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4,2.2,2,1,1,1
+83,44130.61706,21341.0,Cadillac,CST-V,Sedan 4D,Sedan,8,5.7,4,1,0,1
+657,30251.01842,27558.0,SAAB,9_3 HO,Aero Conv 2D,Convertible,4,2.0,2,1,0,1
+295,12570.13668,22479.0,Chevrolet,Cobalt,Coupe 2D,Coupe,4,2.2,2,0,1,1
+618,14396.27056,31424.0,Pontiac,Vibe,GT Sportwagon,Wagon,4,1.8,4,0,0,0
+70,26831.19404,4695.0,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6,3.8,4,1,1,0
+430,18974.92203,5632.0,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6,3.5,4,0,1,1
+396,16825.19088,23460.0,Chevrolet,Malibu,LS MAXX Hback 4D,Hatchback,6,3.5,4,0,1,1
+98,29275.20871,21056.0,Cadillac,CTS,Sedan 4D,Sedan,6,2.8,4,1,1,1
+414,17553.75368,18451.0,Chevrolet,Malibu,LT MAXX Hback 4D,Hatchback,6,3.5,4,0,1,1
+640,29246.23734,3907.0,SAAB,9_3,Linear Sedan 4D,Sedan,4,2.0,4,1,0,1
+359,31186.74146,,Chevrolet,Corvette,Coupe 2D,Coupe,8,6.0,2,1,0,1
+30,23447.68656,15755.0,Buick,Lacrosse,CXS Sedan 4D,Sedan,6,3.8,4,1,1,0
+340,46732.60603,3625.0,Chevrolet,Corvette,Conv 2D,Convertible,8,6.0,2,1,1,1
+488,21403.75642,27168.0,Pontiac,Bonneville,GXP Sedan 4D,Sedan,8,4.6,4,1,0,1
+127,31132.21349,23124.0,Cadillac,Deville,Sedan 4D,Sedan,8,4.6,4,1,1,1
+581,32219.58928,10915.0,Pontiac,GTO,Coupe 2D,Coupe,8,5.7,2,1,1,1
+1,17542.03608,9135.0,Buick,Century,Sedan 4D,Sedan,6,3.1,4,1,1,0
+436,16456.97464,20200.0,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6,3.5,4,0,1,1
+27,20406.0995,22596.0,Buick,Lacrosse,CXL Sedan 4D,Sedan,6,3.6,4,1,0,0
+89,40619.07227,30082.0,Cadillac,CST-V,Sedan 4D,Sedan,8,5.7,4,1,1,1
+308,12684.98623,29891.0,Chevrolet,Cobalt,LS Coupe 2D,Coupe,4,2.2,2,1,1,1
+73,26302.07428,13050.0,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6,3.8,4,1,1,0
+184,10921.94537,23119.0,Chevrolet,AVEO,LT Hatchback 4D,Hatchback,4,1.6,4,0,1,1
+171,12314.59122,4142.0,Chevrolet,AVEO,LS Sedan 4D,Sedan,4,1.6,4,0,1,0
+474,20619.11401,24067.0,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6,3.8,2,1,0,0
+549,13162.85205,24542.0,Pontiac,Grand Am,SE Sedan 4D,Sedan,4,2.2,4,0,1,1
+527,17023.93687,30404.0,Pontiac,G6,Sedan 4D,Sedan,6,3.5,4,1,0,0
+443,17162.47826,15903.0,Chevrolet,Malibu,Sedan 4D,Sedan,6,3.5,4,0,1,1
+91,30957.08075,10625.0,Cadillac,CTS,Sedan 4D,Sedan,6,2.8,4,1,1,1
+539,14703.13687,23335.0,Pontiac,Grand Am,GT Coupe 2D,Coupe,6,3.4,2,0,1,1
+370,20021.19521,1787.0,Chevrolet,Impala,Sedan 4D,Sedan,6,3.8,4,1,0,0
+600,16391.92657,18096.0,Pontiac,Vibe,AWD Sportwagon 4D,Wagon,4,1.8,4,1,1,0
+125,33220.02845,18661.0,Cadillac,Deville,Sedan 4D,Sedan,8,4.6,4,1,0,1
+675,35304.4947,21293.0,SAAB,9_3 HO,Arc Conv 2D,Convertible,4,2.0,2,1,0,1
+315,14304.74104,21128.0,Chevrolet,Cobalt,LS Sedan 4D,Sedan,4,2.2,4,0,1,1
+376,15951.81117,26070.0,Chevrolet,Impala,Sedan 4D,Sedan,6,3.8,4,1,1,1
+12,20512.09409,16633.0,Buick,Lacrosse,CX Sedan 4D,Sedan,6,3.6,4,1,1,0
+601,16033.93062,18391.0,Pontiac,Vibe,AWD Sportwagon 4D,Wagon,4,1.8,4,0,1,1
+463,20537.14172,16950.0,Chevrolet,Monte Carlo,LT Coupe 2D,Coupe,6,3.8,2,1,0,0
+696,28432.82421,25247.0,SAAB,9_5,Arc Sedan 4D,Sedan,4,2.3,4,1,1,1
+607,15505.29381,24239.0,Pontiac,Vibe,AWD Sportwagon 4D,Wagon,4,1.8,4,1,0,0
+533,17202.83406,9380.0,Pontiac,Grand Am,GT Coupe 2D,Coupe,6,3.4,2,0,1,1
+238,12549.89233,25816.0,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4,2.2,2,0,1,1
+114,37510.25357,,Cadillac,Deville,DTS Sedan 4D,Sedan,8,4.6,4,1,0,1
+554,15788.10478,25295.0,Pontiac,Grand Prix,GT Sedan 4D,Sedan,6,3.8,4,1,1,0
+309,12553.07143,32844.0,Chevrolet,Cobalt,LS Coupe 2D,Coupe,4,2.2,2,1,1,1
+409,15233.15987,32535.0,Chevrolet,Malibu,LS Sedan 4D,Sedan,6,3.5,4,0,1,1
+143,44205.87588,,Cadillac,STS-V8,Sedan 4D,Sedan,8,4.6,4,1,0,1
+459,15503.5088,33345.0,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6,3.8,2,1,0,0
+14,19774.24907,23359.0,Buick,Lacrosse,CX Sedan 4D,Sedan,6,3.6,4,1,1,1
+655,30315.16944,23635.0,SAAB,9_3 HO,Aero Conv 2D,Convertible,4,2.0,2,1,0,0
+54,20952.2178,20158.0,Buick,Lesabre,Limited Sedan 4D,Sedan,6,3.8,4,1,1,0
+208,9789.037676,,Chevrolet,AVEO,SVM Hatchback 4D,Hatchback,4,1.6,4,0,1,1
+344,41371.37927,20000.0,Chevrolet,Corvette,Conv 2D,Convertible,8,6.0,2,1,0,1
+131,40966.60741,7476.0,Cadillac,STS-V6,Sedan 4D,Sedan,6,3.6,4,1,1,1
+380,25948.96259,636.0,Chevrolet,Impala,SS Sedan 4D,Sedan,6,3.8,4,1,0,0
+174,11555.2674,13404.0,Chevrolet,AVEO,LS Sedan 4D,Sedan,4,1.6,4,1,1,0
+547,13961.11164,19602.0,Pontiac,Grand Am,SE Sedan 4D,Sedan,4,2.2,4,0,1,1
+191,12408.80615,10213.0,Chevrolet,AVEO,LT Sedan 4D,Sedan,4,1.6,4,0,0,1
+270,14061.12277,4922.0,Chevrolet,Cavalier,Sedan 4D,Sedan,4,2.2,4,0,1,1
+407,15623.20027,27476.0,Chevrolet,Malibu,LS Sedan 4D,Sedan,6,3.5,4,0,1,1
+636,33287.4096,21661.0,SAAB,9_3,Linear Conv 2D,Convertible,4,2.0,2,1,0,1
+123,35165.75937,13449.0,Cadillac,Deville,Sedan 4D,Sedan,8,4.6,4,1,1,1
+138,34974.37804,25796.0,Cadillac,STS-V6,Sedan 4D,Sedan,6,3.6,4,1,1,1
+637,32075.98487,23553.0,SAAB,9_3,Linear Conv 2D,Convertible,4,2.0,2,1,1,0
+51,21956.34266,17787.0,Buick,Lesabre,Limited Sedan 4D,Sedan,6,3.8,4,1,1,0
+220,13007.98418,7372.0,Chevrolet,Cavalier,Coupe 2D,Coupe,4,2.2,2,1,1,1
+112,40856.3909,,Cadillac,Deville,DTS Sedan 4D,Sedan,8,4.6,4,1,1,1
+265,13688.00011,18766.0,Chevrolet,Cavalier,LS Sport Sedan 4D,Sedan,4,2.2,4,1,1,1
+509,19338.376,27966.0,Pontiac,Bonneville,SLE Sedan 4D,Sedan,6,3.8,4,1,0,1
+272,11699.03392,19816.0,Chevrolet,Cavalier,Sedan 4D,Sedan,4,2.2,4,1,1,1
+342,44749.68679,12115.0,Chevrolet,Corvette,Conv 2D,Convertible,8,6.0,2,1,0,1
+256,13141.04795,19898.0,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4,2.2,2,1,1,1
+182,11391.21372,21421.0,Chevrolet,AVEO,LT Hatchback 4D,Hatchback,4,1.6,4,0,1,1
+105,36077.79612,,Cadillac,Deville,DHS Sedan 4D,Sedan,8,4.6,4,1,0,1
+300,15635.79616,1169.0,Chevrolet,Cobalt,LS Coupe 2D,Coupe,4,2.2,2,0,1,1
+446,16646.7708,20154.0,Chevrolet,Malibu,Sedan 4D,Sedan,6,3.5,4,0,1,1
+686,28291.76226,22328.0,SAAB,9_3 HO,Arc Sedan 4D,Sedan,4,2.0,4,1,1,0
+529,15792.83144,41566.0,Pontiac,G6,Sedan 4D,Sedan,6,3.5,4,1,1,1
+240,14894.98259,2464.0,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4,2.2,4,0,1,1
+230,14584.44812,1160.0,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4,2.2,2,1,1,1
+153,66374.30704,12021.0,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8,4.6,2,1,1,1
+326,14418.16529,19818.0,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4,2.2,4,0,1,1
+205,10287.97736,,Chevrolet,AVEO,SVM Hatchback 4D,Hatchback,4,1.6,4,1,1,1
+458,15797.19576,26700.0,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6,3.8,2,1,1,0
+518,18158.08313,28354.0,Pontiac,G6,GT Sedan 4D,Sedan,6,3.5,4,1,0,0
+294,12845.17425,22382.0,Chevrolet,Cobalt,Coupe 2D,Coupe,4,2.2,2,1,1,1
+150,70755.46672,583.0,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8,4.6,2,1,1,1
+156,60567.54909,23193.0,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8,4.6,2,1,1,1
+163,11017.16871,20100.0,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4,1.6,4,0,1,0
+167,11045.10884,24568.0,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4,1.6,4,1,0,1
+472,22113.62802,21992.0,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6,3.8,2,1,1,0
+206,9720.97889,,Chevrolet,AVEO,SVM Hatchback 4D,Hatchback,4,1.6,4,1,1,0
+188,11013.87137,25746.0,Chevrolet,AVEO,LT Hatchback 4D,Hatchback,4,1.6,4,1,1,1
+320,16116.84392,865.0,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4,2.2,4,1,1,1
+324,14897.04055,18210.0,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4,2.2,4,1,1,1
+145,41671.58314,,Cadillac,STS-V8,Sedan 4D,Sedan,8,4.6,4,1,0,1
+158,55639.08765,31805.0,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8,4.6,2,1,0,1
+226,12207.87293,,Chevrolet,Cavalier,Coupe 2D,Coupe,4,2.2,2,1,1,1
+216,8638.930895,25216.0,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4,1.6,4,0,0,0
+194,10805.13009,21013.0,Chevrolet,AVEO,LT Sedan 4D,Sedan,4,1.6,4,1,1,1
+202,10897.07651,,Chevrolet,AVEO,SVM Hatchback 4D,Hatchback,4,1.6,4,0,1,1
+298,12706.91135,27521.0,Chevrolet,Cobalt,Coupe 2D,Coupe,4,2.2,2,1,1,1
+587,27548.62961,26126.0,Pontiac,GTO,Coupe 2D,Coupe,8,5.7,2,1,1,1
+644,24896.5976,21266.0,SAAB,9_3,Linear Sedan 4D,Sedan,4,2.0,4,1,1,0
+543,15846.01271,5350.0,Pontiac,Grand Am,SE Sedan 4D,Sedan,4,2.2,4,0,1,1
+599,12209.55962,26097.0,Pontiac,Sunfire,Coupe 2D,Coupe,4,2.2,2,0,1,1
+79,21536.74173,37128.0,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6,3.8,4,1,1,1
+389,20294.57682,33892.0,Chevrolet,Impala,SS Sedan 4D,Sedan,6,3.8,4,1,0,0
+560,21230.97799,11229.0,Pontiac,Grand Prix,GTP Sedan 4D,Sedan,6,3.8,4,1,1,0
+175,11700.11149,15253.0,Chevrolet,AVEO,LS Sedan 4D,Sedan,4,1.6,4,1,0,0
+625,15821.94972,14304.0,Pontiac,Vibe,Sportwagon 4D,Wagon,4,1.8,4,0,0,1
+94,30646.4377,17094.0,Cadillac,CTS,Sedan 4D,Sedan,6,2.8,4,1,1,1
+229,11149.6183,34447.0,Chevrolet,Cavalier,Coupe 2D,Coupe,4,2.2,2,1,1,1
+517,19204.80934,26477.0,Pontiac,G6,GT Sedan 4D,Sedan,6,3.5,4,1,0,1
+280,15553.20871,7695.0,Chevrolet,Classic,Sedan 4D,Sedan,4,2.2,4,0,1,1
+537,15594.80684,22414.0,Pontiac,Grand Am,GT Coupe 2D,Coupe,6,3.4,2,0,1,1
+403,17158.922,21417.0,Chevrolet,Malibu,LS Sedan 4D,Sedan,6,3.5,4,0,1,1
+528,16216.98071,35624.0,Pontiac,G6,Sedan 4D,Sedan,6,3.5,4,1,1,0
+228,10788.97036,,Chevrolet,Cavalier,Coupe 2D,Coupe,4,2.2,2,1,1,1
+100,39801.55135,14095.0,Cadillac,Deville,DHS Sedan 4D,Sedan,8,4.6,4,1,0,1
+290,14023.93855,13776.0,Chevrolet,Cobalt,Coupe 2D,Coupe,4,2.2,2,0,1,1
+620,16927.77976,2973.0,Pontiac,Vibe,Sportwagon 4D,Wagon,4,1.8,4,0,0,0
+444,16507.07027,17451.0,Chevrolet,Malibu,Sedan 4D,Sedan,6,3.5,4,0,1,1
+366,17839.80077,25453.0,Chevrolet,Impala,LS Sedan 4D,Sedan,6,3.8,4,1,0,1
+659,29612.15405,32477.0,SAAB,9_3 HO,Aero Conv 2D,Convertible,4,2.0,2,1,1,1
+53,21575.45683,20137.0,Buick,Lesabre,Limited Sedan 4D,Sedan,6,3.8,4,1,1,0
+227,11203.14611,,Chevrolet,Cavalier,Coupe 2D,Coupe,4,2.2,2,1,1,1
+391,18950.90698,8687.0,Chevrolet,Malibu,LS MAXX Hback 4D,Hatchback,6,3.5,4,0,1,1
+672,37383.50349,16088.0,SAAB,9_3 HO,Arc Conv 2D,Convertible,4,2.0,2,1,0,1
+695,29844.204,23143.0,SAAB,9_5,Arc Sedan 4D,Sedan,4,2.3,4,1,1,1
+154,65281.48124,15600.0,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8,4.6,2,1,1,1
+251,14397.92808,5189.0,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4,2.2,2,0,1,1
+275,11539.04853,24163.0,Chevrolet,Cavalier,Sedan 4D,Sedan,4,2.2,4,0,1,1
+499,17768.05951,28385.0,Pontiac,Bonneville,SE Sedan 4D,Sedan,6,3.8,4,1,1,1
+678,33248.34252,27051.0,SAAB,9_3 HO,Arc Conv 2D,Convertible,4,2.0,2,1,0,1
+475,20047.95136,24665.0,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6,3.8,2,1,1,0
+271,13072.84163,14311.0,Chevrolet,Cavalier,Sedan 4D,Sedan,4,2.2,4,0,1,1
+44,19027.86231,21797.0,Buick,Lesabre,Custom Sedan 4D,Sedan,6,3.8,4,1,0,1
+113,41419.03726,,Cadillac,Deville,DTS Sedan 4D,Sedan,8,4.6,4,1,0,1
+24,21273.06171,18908.0,Buick,Lacrosse,CXL Sedan 4D,Sedan,6,3.6,4,1,0,0
+211,10315.01823,14438.0,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4,1.6,4,0,0,1
+169,9928.188175,29680.0,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4,1.6,4,0,0,1
+32,23016.00801,18147.0,Buick,Lacrosse,CXS Sedan 4D,Sedan,6,3.8,4,1,1,1
+109,34685.66298,,Cadillac,Deville,DHS Sedan 4D,Sedan,8,4.6,4,1,0,1
+136,36633.63382,22042.0,Cadillac,STS-V6,Sedan 4D,Sedan,6,3.6,4,1,1,1
+330,14429.78964,6114.0,Chevrolet,Cobalt,Sedan 4D,Sedan,4,2.2,4,1,1,1
+222,12045.9207,19136.0,Chevrolet,Cavalier,Coupe 2D,Coupe,4,2.2,2,0,1,1
+28,21058.13958,24469.0,Buick,Lacrosse,CXL Sedan 4D,Sedan,6,3.6,4,1,1,1
+287,14220.01322,23069.0,Chevrolet,Classic,Sedan 4D,Sedan,4,2.2,4,1,1,1
+55,21562.04758,23767.0,Buick,Lesabre,Limited Sedan 4D,Sedan,6,3.8,4,1,0,1
+612,15977.91108,17053.0,Pontiac,Vibe,GT Sportwagon,Wagon,4,1.8,4,0,0,1
+624,17214.32508,12610.0,Pontiac,Vibe,Sportwagon 4D,Wagon,4,1.8,4,1,1,1
+48,17394.0214,25464.0,Buick,Lesabre,Custom Sedan 4D,Sedan,6,3.8,4,1,1,0
+682,30274.71058,10800.0,SAAB,9_3 HO,Arc Sedan 4D,Sedan,4,2.0,4,1,1,0
+477,20382.15031,25240.0,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6,3.8,2,1,1,1
+63,22661.04849,20105.0,Buick,Park Avenue,Sedan 4D,Sedan,6,3.8,4,1,0,0
+413,18311.7563,17441.0,Chevrolet,Malibu,LT MAXX Hback 4D,Hatchback,6,3.5,4,0,1,1
+384,23345.32907,22964.0,Chevrolet,Impala,SS Sedan 4D,Sedan,6,3.8,4,1,1,1
+634,33540.53611,20925.0,SAAB,9_3,Linear Conv 2D,Convertible,4,2.0,2,1,0,1
+322,15084.8154,14824.0,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4,2.2,4,1,1,1
+451,18910.80429,8345.0,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6,3.8,2,1,0,1
+234,12274.95758,19612.0,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4,2.2,2,1,1,1
+462,22384.11869,14788.0,Chevrolet,Monte Carlo,LT Coupe 2D,Coupe,6,3.8,2,1,1,1
+424,17312.90715,21420.0,Chevrolet,Malibu,LT Sedan 4D,Sedan,6,3.5,4,1,1,1
+611,16353.09652,16078.0,Pontiac,Vibe,GT Sportwagon,Wagon,4,1.8,4,0,1,0
+303,14185.02155,20374.0,Chevrolet,Cobalt,LS Coupe 2D,Coupe,4,2.2,2,0,1,1
+613,15568.97424,18206.0,Pontiac,Vibe,GT Sportwagon,Wagon,4,1.8,4,0,0,0
+219,8768.998585,35299.0,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4,1.6,4,0,0,0
+603,16551.21957,19531.0,Pontiac,Vibe,AWD Sportwagon 4D,Wagon,4,1.8,4,1,1,1
+296,12897.92954,23200.0,Chevrolet,Cobalt,Coupe 2D,Coupe,4,2.2,2,1,1,1
+21,23785.92253,10577.0,Buick,Lacrosse,CXL Sedan 4D,Sedan,6,3.6,4,1,1,1
+420,19446.88294,932.0,Chevrolet,Malibu,LT Sedan 4D,Sedan,6,3.5,4,0,1,1
+325,14508.75009,18910.0,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4,2.2,4,0,1,1
+199,9919.048185,34621.0,Chevrolet,AVEO,LT Sedan 4D,Sedan,4,1.6,4,0,1,0
+450,18800.0931,5827.0,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6,3.8,2,1,0,0
+137,35895.49941,23056.0,Cadillac,STS-V6,Sedan 4D,Sedan,6,3.6,4,1,1,1
+536,15253.86857,20917.0,Pontiac,Grand Am,GT Coupe 2D,Coupe,6,3.4,2,1,1,1
+212,9654.060142,19183.0,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4,1.6,4,0,0,0
+671,38167.17358,13162.0,SAAB,9_3 HO,Arc Conv 2D,Convertible,4,2.0,2,1,0,1
+649,22244.87655,50387.0,SAAB,9_3,Linear Sedan 4D,Sedan,4,2.0,4,1,0,1
+638,31969.06981,24559.0,SAAB,9_3,Linear Conv 2D,Convertible,4,2.0,2,1,0,0
+505,20830.9943,19419.0,Pontiac,Bonneville,SLE Sedan 4D,Sedan,6,3.8,4,1,1,0
+610,17803.27909,12303.0,Pontiac,Vibe,GT Sportwagon,Wagon,4,1.8,4,1,1,1
+231,13681.698,10210.0,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4,2.2,2,1,1,1
+405,16993.78033,23621.0,Chevrolet,Malibu,LS Sedan 4D,Sedan,6,3.5,4,0,1,1
+317,13744.84985,23748.0,Chevrolet,Cobalt,LS Sedan 4D,Sedan,4,2.2,4,0,1,1
+183,11247.86253,21427.0,Chevrolet,AVEO,LT Hatchback 4D,Hatchback,4,1.6,4,1,1,1
+593,12878.04683,19225.0,Pontiac,Sunfire,Coupe 2D,Coupe,4,2.2,2,1,1,1
+591,12830.09878,17830.0,Pontiac,Sunfire,Coupe 2D,Coupe,4,2.2,2,1,1,1
+485,22231.56315,21929.0,Pontiac,Bonneville,GXP Sedan 4D,Sedan,8,4.6,4,1,1,1
+278,11464.62886,29410.0,Chevrolet,Cavalier,Sedan 4D,Sedan,4,2.2,4,1,1,1
+20,22358.87768,8970.0,Buick,Lacrosse,CXL Sedan 4D,Sedan,6,3.6,4,1,1,0
+170,12649.11089,3629.0,Chevrolet,AVEO,LS Sedan 4D,Sedan,4,1.6,4,0,1,0
+401,18800.9589,7961.0,Chevrolet,Malibu,LS Sedan 4D,Sedan,6,3.5,4,0,1,1
+641,26337.8306,16068.0,SAAB,9_3,Linear Sedan 4D,Sedan,4,2.0,4,1,0,0
+566,18701.22262,24992.0,Pontiac,Grand Prix,GTP Sedan 4D,Sedan,6,3.8,4,1,0,0
+176,11215.01865,19945.0,Chevrolet,AVEO,LS Sedan 4D,Sedan,4,1.6,4,0,0,0
+327,14191.88228,21181.0,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4,2.2,4,1,1,1
+198,10921.94537,27776.0,Chevrolet,AVEO,LT Sedan 4D,Sedan,4,1.6,4,1,0,0
+470,23573.822,12466.0,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6,3.8,2,1,1,0
+690,35033.21545,1676.0,SAAB,9_5,Arc Sedan 4D,Sedan,4,2.3,4,1,1,1
+266,13308.83375,20043.0,Chevrolet,Cavalier,LS Sport Sedan 4D,Sedan,4,2.2,4,0,1,1
+492,20318.89097,17583.0,Pontiac,Bonneville,SE Sedan 4D,Sedan,6,3.8,4,1,1,0
+130,42741.52367,2846.0,Cadillac,STS-V6,Sedan 4D,Sedan,6,3.6,4,1,0,1
+338,12495.97075,26204.0,Chevrolet,Cobalt,Sedan 4D,Sedan,4,2.2,4,0,1,1
+589,25527.01303,36480.0,Pontiac,GTO,Coupe 2D,Coupe,8,5.7,2,1,1,1
+489,21200.69021,31197.0,Pontiac,Bonneville,GXP Sedan 4D,Sedan,8,4.6,4,1,1,1
+572,16853.10785,17959.0,Pontiac,Grand Prix,Sedan 4D,Sedan,6,3.8,4,1,0,0
+193,11615.02102,19014.0,Chevrolet,AVEO,LT Sedan 4D,Sedan,4,1.6,4,0,1,1
+140,48310.32954,788.0,Cadillac,STS-V8,Sedan 4D,Sedan,8,4.6,4,1,0,1
+416,17663.22495,19490.0,Chevrolet,Malibu,LT MAXX Hback 4D,Hatchback,6,3.5,4,1,1,1
+476,21525.33901,25020.0,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6,3.8,2,1,1,1
+152,69133.73172,7892.0,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8,4.6,2,1,1,1
+622,16379.0987,8754.0,Pontiac,Vibe,Sportwagon 4D,Wagon,4,1.8,4,0,1,0
+10,21335.85248,10237.0,Buick,Lacrosse,CX Sedan 4D,Sedan,6,3.6,4,1,0,0
+269,12846.06159,27560.0,Chevrolet,Cavalier,LS Sport Sedan 4D,Sedan,4,2.2,4,1,1,1
+96,30392.75016,18449.0,Cadillac,CTS,Sedan 4D,Sedan,6,2.8,4,1,1,1
+210,10971.09561,,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4,1.6,4,1,0,0
+689,25267.36768,34175.0,SAAB,9_3 HO,Arc Sedan 4D,Sedan,4,2.0,4,1,1,0
+569,19448.22633,27721.0,Pontiac,Grand Prix,GTP Sedan 4D,Sedan,6,3.8,4,1,0,1
+548,13034.06853,23976.0,Pontiac,Grand Am,SE Sedan 4D,Sedan,4,2.2,4,0,1,1
+656,30166.85251,25049.0,SAAB,9_3 HO,Aero Conv 2D,Convertible,4,2.0,2,1,0,0
+532,17141.94116,6761.0,Pontiac,Grand Am,GT Coupe 2D,Coupe,6,3.4,2,1,1,1
+648,23249.84169,27686.0,SAAB,9_3,Linear Sedan 4D,Sedan,4,2.0,4,1,0,0
+332,14582.76912,7115.0,Chevrolet,Cobalt,Sedan 4D,Sedan,4,2.2,4,1,1,1
+75,25508.21096,17480.0,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6,3.8,4,1,1,0
+77,23406.68982,25387.0,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6,3.8,4,1,0,1
+263,13762.90145,18040.0,Chevrolet,Cavalier,LS Sport Sedan 4D,Sedan,4,2.2,4,1,1,1
+149,39072.39205,31587.0,Cadillac,STS-V8,Sedan 4D,Sedan,8,4.6,4,1,0,1
+647,24063.01268,27674.0,SAAB,9_3,Linear Sedan 4D,Sedan,4,2.0,4,1,1,1
+514,21875.09763,12313.0,Pontiac,G6,GT Sedan 4D,Sedan,6,3.5,4,1,0,1
+661,27825.94997,10014.0,SAAB,9_3 HO,Aero Sedan 4D,Sedan,4,2.0,4,1,0,1
+469,17586.92858,39049.0,Chevrolet,Monte Carlo,LT Coupe 2D,Coupe,6,3.8,2,1,0,1
+564,19646.71748,21132.0,Pontiac,Grand Prix,GTP Sedan 4D,Sedan,6,3.8,4,1,1,1
+461,21725.01075,13457.0,Chevrolet,Monte Carlo,LT Coupe 2D,Coupe,6,3.8,2,1,1,0
+253,13464.80288,14231.0,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4,2.2,2,1,1,1
+369,18083.3963,29420.0,Chevrolet,Impala,LS Sedan 4D,Sedan,6,3.8,4,1,1,1
+321,16428.57898,9882.0,Chevrolet,Cobalt,LT Sedan 4D,Sedan,4,2.2,4,0,1,1
+151,68566.18719,6420.0,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8,4.6,2,1,1,1
+302,14619.07856,15768.0,Chevrolet,Cobalt,LS Coupe 2D,Coupe,4,2.2,2,1,1,1
+190,11918.45607,7278.0,Chevrolet,AVEO,LT Sedan 4D,Sedan,4,1.6,4,0,0,0
+586,27370.95811,24960.0,Pontiac,GTO,Coupe 2D,Coupe,8,5.7,2,1,1,1
+348,36970.89805,30502.0,Chevrolet,Corvette,Conv 2D,Convertible,8,6.0,2,1,1,1
+243,13167.70232,,Chevrolet,Cavalier,LS Sedan 4D,Sedan,4,2.2,4,0,1,1
+87,42677.60112,24052.0,Cadillac,CST-V,Sedan 4D,Sedan,8,5.7,4,1,0,1
+631,34819.29712,12251.0,SAAB,9_3,Linear Conv 2D,Convertible,4,2.0,2,1,0,0
+418,16988.30306,24905.0,Chevrolet,Malibu,LT MAXX Hback 4D,Hatchback,6,3.5,4,1,1,1
+288,12379.12647,31199.0,Chevrolet,Classic,Sedan 4D,Sedan,4,2.2,4,1,1,1
+166,11137.04565,22484.0,Chevrolet,AVEO,LS Hatchback 4D,Hatchback,4,1.6,4,0,1,1
+595,12464.07346,21891.0,Pontiac,Sunfire,Coupe 2D,Coupe,4,2.2,2,1,1,1
+651,33381.81915,17381.0,SAAB,9_3 HO,Aero Conv 2D,Convertible,4,2.0,2,1,1,1
+155,63913.11725,18200.0,Cadillac,XLR-V8,Hardtop Conv 2D,Convertible,8,4.6,2,1,1,1
+356,35575.41705,,Chevrolet,Corvette,Coupe 2D,Coupe,8,6.0,2,1,0,1
+381,27714.05025,5379.0,Chevrolet,Impala,SS Sedan 4D,Sedan,6,3.8,4,1,1,0
+279,10546.78275,38866.0,Chevrolet,Cavalier,Sedan 4D,Sedan,4,2.2,4,1,1,1
+126,32509.47829,20910.0,Cadillac,Deville,Sedan 4D,Sedan,8,4.6,4,1,0,1
+22,22926.09037,14363.0,Buick,Lacrosse,CXL Sedan 4D,Sedan,6,3.6,4,1,1,1
+616,15802.65286,21461.0,Pontiac,Vibe,GT Sportwagon,Wagon,4,1.8,4,0,0,0
+282,13540.04164,17343.0,Chevrolet,Classic,Sedan 4D,Sedan,4,2.2,4,0,1,1
+471,23527.7285,14948.0,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6,3.8,2,1,1,0
+367,17789.34673,26980.0,Chevrolet,Impala,LS Sedan 4D,Sedan,6,3.8,4,1,1,0
+25,21460.01395,19467.0,Buick,Lacrosse,CXL Sedan 4D,Sedan,6,3.6,4,1,0,1
+196,10770.10655,25065.0,Chevrolet,AVEO,LT Sedan 4D,Sedan,4,1.6,4,0,1,0
+64,23493.0823,20453.0,Buick,Park Avenue,Sedan 4D,Sedan,6,3.8,4,1,1,0
+15,19344.16554,23765.0,Buick,Lacrosse,CX Sedan 4D,Sedan,6,3.6,4,1,1,0
+466,20839.14997,22152.0,Chevrolet,Monte Carlo,LT Coupe 2D,Coupe,6,3.8,2,1,1,1
+297,11961.61996,27394.0,Chevrolet,Cobalt,Coupe 2D,Coupe,4,2.2,2,1,1,1
+621,17418.06873,4463.0,Pontiac,Vibe,Sportwagon 4D,Wagon,4,1.8,4,1,0,1
+336,13830.24902,17594.0,Chevrolet,Cobalt,Sedan 4D,Sedan,4,2.2,4,0,1,1
+26,21183.12359,21394.0,Buick,Lacrosse,CXL Sedan 4D,Sedan,6,3.6,4,1,0,0
+588,28502.30611,27199.0,Pontiac,GTO,Coupe 2D,Coupe,8,5.7,2,1,1,1
+43,17944.85692,19592.0,Buick,Lesabre,Custom Sedan 4D,Sedan,6,3.8,4,1,0,0
+497,18566.0707,24747.0,Pontiac,Bonneville,SE Sedan 4D,Sedan,6,3.8,4,1,1,1
+515,20627.66169,20770.0,Pontiac,G6,GT Sedan 4D,Sedan,6,3.5,4,1,1,1
+666,25148.37919,22272.0,SAAB,9_3 HO,Aero Sedan 4D,Sedan,4,2.0,4,1,1,1
+561,22100.39317,12314.0,Pontiac,Grand Prix,GTP Sedan 4D,Sedan,6,3.8,4,1,1,0
+454,17685.20099,15898.0,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6,3.8,2,1,0,0
+387,23151.54614,27940.0,Chevrolet,Impala,SS Sedan 4D,Sedan,6,3.8,4,1,0,0
+71,26060.33535,9795.0,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6,3.8,4,1,1,0
+542,15327.10032,4318.0,Pontiac,Grand Am,SE Sedan 4D,Sedan,4,2.2,4,0,1,1
+456,16357.99232,23491.0,Chevrolet,Monte Carlo,LS Coupe 2D,Coupe,6,3.8,2,1,1,0
+633,32737.08455,19112.0,SAAB,9_3,Linear Conv 2D,Convertible,4,2.0,2,1,1,1
+431,18324.83193,7397.0,Chevrolet,Malibu,MAXX Hback 4D,Hatchback,6,3.5,4,1,1,1
+627,15622.1211,23217.0,Pontiac,Vibe,Sportwagon 4D,Wagon,4,1.8,4,1,1,1
+653,33586.90609,18930.0,SAAB,9_3 HO,Aero Conv 2D,Convertible,4,2.0,2,1,0,1
+264,14275.12764,18533.0,Chevrolet,Cavalier,LS Sport Sedan 4D,Sedan,4,2.2,4,1,1,1
+209,9220.829677,,Chevrolet,AVEO,SVM Hatchback 4D,Hatchback,4,1.6,4,1,0,1
+316,13688.94568,21611.0,Chevrolet,Cobalt,LS Sedan 4D,Sedan,4,2.2,4,1,1,1
+513,22311.04951,11221.0,Pontiac,G6,GT Sedan 4D,Sedan,6,3.5,4,1,1,1
+313,15000.99271,14504.0,Chevrolet,Cobalt,LS Sedan 4D,Sedan,4,2.2,4,0,1,1
+534,16792.67953,12071.0,Pontiac,Grand Am,GT Coupe 2D,Coupe,6,3.4,2,1,1,1
+319,12741.19023,34815.0,Chevrolet,Cobalt,LS Sedan 4D,Sedan,4,2.2,4,0,1,1
+7,15048.04218,22964.0,Buick,Century,Sedan 4D,Sedan,6,3.1,4,1,1,0
+393,17801.22953,19386.0,Chevrolet,Malibu,LS MAXX Hback 4D,Hatchback,6,3.5,4,1,1,1
+141,48365.9809,,Cadillac,STS-V8,Sedan 4D,Sedan,8,4.6,4,1,1,1
+86,44300.63996,23751.0,Cadillac,CST-V,Sedan 4D,Sedan,8,5.7,4,1,0,1
+478,21020.83678,25550.0,Chevrolet,Monte Carlo,SS Coupe 2D,Coupe,6,3.8,2,1,1,1
+503,21607.77257,11069.0,Pontiac,Bonneville,SLE Sedan 4D,Sedan,6,3.8,4,1,0,1
+215,9482.219404,24842.0,Chevrolet,AVEO,SVM Sedan 4D,Sedan,4,1.6,4,1,0,0
+580,32422.76138,9185.0,Pontiac,GTO,Coupe 2D,Coupe,8,5.7,2,1,1,1
+562,21300.01945,12772.0,Pontiac,Grand Prix,GTP Sedan 4D,Sedan,6,3.8,4,1,1,0
+398,16143.95729,26532.0,Chevrolet,Malibu,LS MAXX Hback 4D,Hatchback,6,3.5,4,1,1,1
+668,24173.52588,27015.0,SAAB,9_3 HO,Aero Sedan 4D,Sedan,4,2.0,4,1,0,0
+490,19682.03501,11554.0,Pontiac,Bonneville,SE Sedan 4D,Sedan,6,3.8,4,1,0,1
+252,14642.32358,6224.0,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4,2.2,2,0,1,1
+468,18876.87065,27218.0,Chevrolet,Monte Carlo,LT Coupe 2D,Coupe,6,3.8,2,1,1,0
+357,34297.30535,,Chevrolet,Corvette,Coupe 2D,Coupe,8,6.0,2,1,0,1
+254,13678.863,17971.0,Chevrolet,Cavalier,LS Sport Coupe 2D,Coupe,4,2.2,2,1,1,1
+276,12243.06062,25014.0,Chevrolet,Cavalier,Sedan 4D,Sedan,4,2.2,4,1,1,1
+178,10491.0752,30948.0,Chevrolet,AVEO,LS Sedan 4D,Sedan,4,1.6,4,0,1,0
+281,15047.00274,12305.0,Chevrolet,Classic,Sedan 4D,Sedan,4,2.2,4,1,1,1
+390,18957.89004,5936.0,Chevrolet,Malibu,LS MAXX Hback 4D,Hatchback,6,3.5,4,0,1,1
+508,19689.74084,27077.0,Pontiac,Bonneville,SLE Sedan 4D,Sedan,6,3.8,4,1,1,0
+583,29595.79429,16193.0,Pontiac,GTO,Coupe 2D,Coupe,8,5.7,2,1,0,1
+129,31059.18103,27544.0,Cadillac,Deville,Sedan 4D,Sedan,8,4.6,4,1,1,1
+144,42377.95544,,Cadillac,STS-V8,Sedan 4D,Sedan,8,4.6,4,1,0,1
+645,25996.8064,21433.0,SAAB,9_3,Linear Sedan 4D,Sedan,4,2.0,4,1,1,1
+72,26781.81465,12052.0,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6,3.8,4,1,1,0
+235,12630.77503,22571.0,Chevrolet,Cavalier,LS Coupe 2D,Coupe,4,2.2,2,1,1,1
+37,21683.03146,26779.0,Buick,Lacrosse,CXS Sedan 4D,Sedan,6,3.8,4,1,1,0
